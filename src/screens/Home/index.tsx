@@ -66,8 +66,8 @@ export function Home() {
     <>
       <Header
         user={{
-          name: 'Rocketseat',
-          avatar_url: 'https://i.ibb.co/ZmFHZDM/rocketseat.jpg'
+          name: 'Ricardo',
+          avatar_url: 'https://github.com/ricardogsdev.png'
         }}
       />
       <Container>
